@@ -1,14 +1,24 @@
----
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+---
+layout: archive
+title: "Project"
+permalink: /project/
+author_profile: true
+---
+**Methodological Research**
+- **Sarah**, Wenjia Wang, George Tseng. (2025).
+  *P-value calculation for Adaptive Rank Truncated Product Test* [in preparation]
+  
+  
+**On-going Collaboration Research**
+1. ER-positive human cell line xenograft models recapitulate metastatic dissemination and endocrine response of invasive lobular breast carcinoma. (collborate with Lee-Oesterreich lab)
+
+2. Identify and validate host signature for UTI and pyelonephritis. (collaborate with Dr. Nader Shaikh)
+  
+3. Endocrine Therapy Response in Invasive Lobular Carcinoma: Molecular Adaptations in a Multicenter Randomized Clinical Trial. (collborate with Lee-Oesterreich lab)
+
+4. Syngeneic ER+ Cdh1 KO SSM3 Mouse Mammary Tumor Cell. (collborate with Lee-Oesterreich lab)
+
+5. ESR1 mutant CDH1 null tumors. (collborate with Lee-Oesterreich lab)
+
+6. Breast Cancer ILC subtyping. (collborate with Lee-Oesterreich lab)
