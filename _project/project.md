@@ -6,22 +6,18 @@ author_profile: true
 ---
 **Methodological Research**
 - **Sarah**, Wenjia Wang, George Tseng. (2025).
-  *P-value calculation for Adaptive Rank Truncated Product Test*, [in preparation]
+  *P-value calculation for Adaptive Rank Truncated Product Test* [in preparation]
   
   
-**Collaboration Research**
-1. Carlos Murillo, Ester Cerezo-Téllez, María Torres-Lacomba, **Thien Quy Pham**, Enrique Lluch, Deborah Falla, Tat-Thang Vo. (2024).  
-  *Unraveling the Mechanisms Behind the Short-Term Effects of Dry Needling: New Insights From a Mediation Analysis With Repeatedly Measured Mediators and Outcomes.*  
-  _Archives of Physical Medicine and Rehabilitation_, 105(12), 2269–2276.
+**On-going Collaboration Research**
+1. ER-positive human cell line xenograft models recapitulate metastatic dissemination and endocrine response of invasive lobular breast carcinoma. (collborate with Lee-Oesterreich lab)
 
-2. Toan Ha, Qiong Wu, **Thien Quy Pham**, Cindy Pan, Tom Wen-Han Su, Lam Ha, Ngoan Tran Le, Thanh C Bui, Md. Safaet Hossain Sujan, Roman Shrestha, Stephen L. Schensul. (2024).  
-  *The Role of Tailored Interventions in Improving Quality of Life Among Men Living with HIV in India.*  
-  _[AIDS and Behavior]_, [submitted]
+2. Identify and validate host signature for UTI and pyelonephritis. (collaborate with Dr. Nader Shaikh)
   
-3. Toan Ha, **Thien Quy Pham**, Tom Wen-Han Su, Sougat Misra, Lam Ha, Shayna D. Cunningham, Rogie Royce Carandang, Stephen L. Schensul. (2024).
-   *Impact of multilevel interventions on reducing reasons for drinking among men living with HIV.*
-  _[AIDS care]_, [submitted]
-  
-4. Toan Ha, **Thien Quy Pham**, Tom Wen-Han Su, Lam Ha, Rogie Royce Carandang, Stephen L. Schensul. (2024).
-   *Female migrant workers, health, sexual and reproductive health and psychological well-being: A challenging intersection.*
-   _[BMC Public Health]_, [in revision]
+3. Endocrine Therapy Response in Invasive Lobular Carcinoma: Molecular Adaptations in a Multicenter Randomized Clinical Trial. (collborate with Lee-Oesterreich lab)
+
+4. Syngeneic ER+ Cdh1 KO SSM3 Mouse Mammary Tumor Cell. (collborate with Lee-Oesterreich lab)
+
+5. ESR1 mutant CDH1 null tumors. (collborate with Lee-Oesterreich lab)
+
+6. Breast Cancer ILC subtyping. (collborate with Lee-Oesterreich lab)
