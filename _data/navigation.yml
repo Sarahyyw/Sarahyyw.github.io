@@ -11,8 +11,8 @@ main:
   - title: "Project"
     url: /project/
 
-  - title: "Publication"
-    url: /publication/
+  - title: "Publications"
+    url: /publications/
     
   - title: "CV"
     url: /cv/
