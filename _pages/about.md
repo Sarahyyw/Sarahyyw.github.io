@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello and welcome to my homepage! I’m Sarah Wang, a second-year PhD student in Biostatistics at the University of Pittsburgh, where I have the privilege of working under the guidance of Dr. George C. Tseng. My academic journey began with a Bachelor's degree in Applied Statistics and Economics from the University of Toronto, and later, I pursued a Master’s in Biostatistics at Columbia University's Mailman School of Public Health. It was during my time at Columbia that I developed a deep passion for Biostatistics and its potential to address complex health challenges.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-Hello and welcome to my homepage! I’m Sarah Wang, a PhD student in Biostatistics at the University of Pittsburgh, currently working under the guidance of Dr. George Tseng. My academic journey began with a Bachelor's degree in Applied Statistics and Economics from the University of Toronto, followed by a Master’s in Biostatistics from Columbia University's Mailman School of Public Health, where I earned a perfect GPA.
+My research interests are driven by a strong focus on statistical computing and its application to biomedicine. I’m particularly interested in the meta-analysis of both homogeneous and heterogeneous signals, pathway-guided disease subtyping, statistical computing, and multi-omics data integration. In addition to my methodological research, I am currently collaborating with the Lee-Oesterreich lab to explore the molecular mechanisms behind breast cancer development and therapy resistance, with the ultimate goal of improving outcomes for breast cancer patients!
 
 
 A data-driven personal website
