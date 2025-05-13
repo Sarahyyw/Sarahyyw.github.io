@@ -1,8 +1,7 @@
 
 ---
-layout: archive
-title: "Project"
-permalink: /project/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 **Methodological Research**
