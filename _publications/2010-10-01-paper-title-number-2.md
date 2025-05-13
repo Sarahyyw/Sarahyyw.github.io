@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Methodological Research**
-- **Sarah**, Wenjia Wang, George Tseng. (2025).
+
+### Methodology paper
+
+**Sarah**, Wenjia Wang, George Tseng. (2025).
   *P-value calculation for Adaptive Rank Truncated Product Test* [in preparation]
   
   
@@ -21,3 +23,10 @@ author_profile: true
 5. ESR1 mutant CDH1 null tumors. (collborate with Lee-Oesterreich lab)
 
 6. Breast Cancer ILC subtyping. (collborate with Lee-Oesterreich lab)
+
+
+### Methodology paper
+
+**RuoFei Yin**, George C. Tseng. (2025) Response to the Commentary on “Experimental Design and Power Calculation in Omics Circadian Rhythmicity Detection Using the Cosinor Model”. *Statistics in Medicine*. In production.
+
+**RuoFei Yin**, DanYang Li, Wei Zong, Pedro Baldoni, George C. Tseng. (2025) Power corrected normalization on sequencing depth for bulk RNA-seq. In preparation.
