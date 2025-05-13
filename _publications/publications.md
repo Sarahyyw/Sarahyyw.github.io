@@ -1,18 +1,8 @@
-
 ---
 title: "Publications"
-permalink: /publications/
+permalink: /publications/publications
 author_profile: true
 ---
-
----
-title: "Publications"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-
----
-
 
 ### Methodology paper
 
