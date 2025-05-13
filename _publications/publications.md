@@ -10,7 +10,8 @@ author_profile: true
   *P-value calculation for Adaptive Rank Truncated Product Test* [in preparation]
   
   
-**On-going Collaboration Research**
+### On-going Collaboration Research**
+
 1. ER-positive human cell line xenograft models recapitulate metastatic dissemination and endocrine response of invasive lobular breast carcinoma. (collborate with Lee-Oesterreich lab)
 
 2. Identify and validate host signature for UTI and pyelonephritis. (collaborate with Dr. Nader Shaikh)
@@ -23,9 +24,3 @@ author_profile: true
 
 6. Breast Cancer ILC subtyping. (collborate with Lee-Oesterreich lab)
 
-
-### Methodology paper
-
-**RuoFei Yin**, George C. Tseng. (2025) Response to the Commentary on “Experimental Design and Power Calculation in Omics Circadian Rhythmicity Detection Using the Cosinor Model”. *Statistics in Medicine*. In production.
-
-**RuoFei Yin**, DanYang Li, Wei Zong, Pedro Baldoni, George C. Tseng. (2025) Power corrected normalization on sequencing depth for bulk RNA-seq. In preparation.
